@@ -4,7 +4,12 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 1.9.1</title>
-            <description>- Dienstpläne können ohne Verfügbarkeiten erstellt werden\n- Excel-Export: Spalten wurden ergänzt\n- Verbesserungen/Bug-Fixes
+            <description>
+                <ul>
+                    <li>Dienstpläne können ohne Verfügbarkeiten erstellt werden</li>
+                    <li>Excel-Export: Spalten wurden ergänzt</li>
+                    <li>Verbesserungen/Bug-Fixes</li>
+                </ul>
             </description>
             <pubDate>Mo, 12 Jan 2026 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.proshield.jugendhilfe.proshield_jh_app&gl=US&hl=en&_cb=1768666489542109" sparkle:version="1.9.1" sparkle:os="android" />
