@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 2.8.0</title>
+            <title>Version 2.8.2</title>
             <description>Verbesserungen und Bug-Fixes</description>
-            <pubDate>Mo, 24 Apr 2026 06:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.proshield.jugendhilfe.proshield_jh_app&gl=DE&hl=de&_cb=1768666489542109" sparkle:version="2.8.0" sparkle:os="android" />
+            <pubDate>Mo, 26 Apr 2026 06:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.proshield.jugendhilfe.proshield_jh_app&gl=DE&hl=de&_cb=1768666489542109" sparkle:version="2.8.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
